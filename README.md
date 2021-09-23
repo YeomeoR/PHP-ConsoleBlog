@@ -1,7 +1,7 @@
 ## PHP-ConsoleBlog
 
-##### missing the config file with dbname, username, password etc. This .php file is within the app folder, within a config folder.
+##### The config file with dbname, username, password etc. is absent from this repo. This config.php file would be within the app folder, within a config folder.
 
-##### Use of PDOExceptions and built upon a hand-coded MVC framework
+##### Hand-coded PHP OOP / PDO
 
 ###### The live site can be viewed at www.consoleblog.co.uk
